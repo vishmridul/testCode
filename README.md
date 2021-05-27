@@ -1,1 +1,1 @@
-# Run mvn test to run the test
+# demoAutomation
